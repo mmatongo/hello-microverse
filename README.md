@@ -10,6 +10,9 @@ Additional description about the project and its features.
 - HTML
 - CSS
 
+## Live Demo
+[Live Demo](https://mmatongo.github.io/hello-microverse/)
+
 ## Getting Started
 
 To get started locally follow these simple example steps.
